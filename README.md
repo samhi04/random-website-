@@ -1,3 +1,2 @@
 # random-website-
-demo 
-some description 
+this is a random website i made for practise 
